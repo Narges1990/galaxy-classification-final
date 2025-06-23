@@ -7,7 +7,7 @@ You can find all project files, including:
 - PowerPoint and PDF slides
 
 GitHub Repository:
-🔗 https://github.com/Narges1990/galaxy-classification
+🔗https://github.com/Narges1990/galaxy-classification-final
 
 Please let me know if you need any additional material.
 
